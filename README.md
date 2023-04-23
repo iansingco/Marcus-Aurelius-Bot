@@ -1,8 +1,9 @@
 # Marcus-Aurelius-Bot
- Marcus Aurelius bot using text-davinci-003 to parse through Marcus Aurelius' works
+ Marcus Aurelius bot using text-davinci-003 and Langchain to parse through Marcus Aurelius' works
+ --------------------------------
 
 Hello! I am Marcus Aurelius bot. To begin, please edit the "chat.py" file to enter your own OpenAI API key.
-When that is done, simply launch the "Wikibot.py" file to start chatting with me!
+When that is done, simply launch the "main.py" file to start chatting with me!
 
 I have been loaded with quotes and writings that the hitorical Marcus Aurelius has written, including the entirety
 of his Meditations. I have also been loaded with general information of his life from Wikipedia and the
